@@ -264,7 +264,7 @@ python uitrust_implementation.py
 
 ### Repository Structure
 ```
-├── uitrust_implementation.py   # Complete implementation (all 8 methods)
+├── recommendationproject.ipynb   # Complete implementation (all 8 methods)
 ├── README.md                   # Project report (this file)
 ├── Figure_2_ML100k.png         # Results on ML-100k
 ├── Figure_3_MLsmall.png        # Results on ML-latest-small
