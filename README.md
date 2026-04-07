@@ -149,7 +149,7 @@ All methods use **k = 40** neighbours.
 
 ### 5.1 ML-100k Dataset
 
-![Figure 2 - ML100k Results](Figure_2_ML100k.png)
+![Figure 2 - ML100k Results](results/Figure_2_ML100k.png)
 
 | Method | MAE | RMSE |
 |---|---|---|
@@ -168,7 +168,7 @@ UITrust_P achieved the best MAE (0.7281). Compared to the weakest baseline BKNN_
 
 ### 5.2 ML-latest-small Dataset
 
-![Figure 3 - ML-latest-small Results](Figure_3_MLsmall.png)
+![Figure 3 - ML-latest-small Results](results/Figure_3_MLsmall.png)
 
 | Method | MAE | RMSE |
 |---|---|---|
@@ -187,7 +187,7 @@ This dataset has the highest sparsity (density = 1.70%). Improvement over BKNN_P
 
 ### 5.3 ML-1m Dataset
 
-![Figure 4 - ML-1m Results](Figure_4_ML1m.png)
+![Figure 4 - ML-1m Results](results/Figure_4_ML1m.png)
 
 | Method | MAE | RMSE |
 |---|---|---|
@@ -214,7 +214,7 @@ UITrust's weight matrix maintains **zero empty entries** regardless of user coun
 
 ### 5.5 Cross-Dataset Heatmap
 
-![Figure 6 - Heatmap](Figure_6_Heatmap.png)
+![Figure 6 - Heatmap](results/Figure_6_Heatmap.png)
 
 UITrust variants consistently occupy the lower-error region across all three datasets.
 
