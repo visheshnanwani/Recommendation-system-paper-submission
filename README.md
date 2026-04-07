@@ -206,7 +206,7 @@ UITrust still significantly outperforms both BKNN variants across the largest da
 
 ### 5.4 Sparsity of Weight Matrix
 
-![Figure 5 - Sparsity](Figure_5_Sparsity.png)
+![Figure 5 - Sparsity](results/Figure_5_Sparsity.png)
 
 UITrust's weight matrix maintains **zero empty entries** regardless of user count. Pearson sparsity grows ~2.5× faster than MSD. This is a critical advantage for users with few co-rated items.
 
